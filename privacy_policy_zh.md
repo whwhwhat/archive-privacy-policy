@@ -58,9 +58,8 @@
 
 如有隐私问题，请通过以下方式联系：
 
-- Email: `TODO: your-support-email@example.com`
-- 政策链接：`TODO: your-policy-url`
+- Email: `kareyhoframrufusst@gmail.com`
+- 政策链接：`https://whwhwhat.github.io/archive-privacy-policy/privacy_policy_en.html`
 
 ---
 
-注：本文件是针对当前仓库代码行为的政策草案，不构成法律意见。正式上架前请根据你的主体信息、地区法规要求（如 GDPR/CCPA/PIPL）进行最终审阅。

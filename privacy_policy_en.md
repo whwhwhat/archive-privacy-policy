@@ -58,9 +58,8 @@ We may update this policy from time to time. The effective date will be updated 
 
 For privacy-related questions, contact:
 
-- Email: `TODO: your-support-email@example.com`
-- Policy URL: `TODO: your-policy-url`
+- Email: `kareyhoframrufusst@gmail.com`
+- Policy URL: `https://whwhwhat.github.io/archive-privacy-policy/privacy_policy_en.html`
 
 ---
 
-Note: This file is a draft based on current repository behavior and is not legal advice. Please finalize it according to your legal entity and applicable laws before publication.
