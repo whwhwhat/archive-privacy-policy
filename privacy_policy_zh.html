@@ -5,11 +5,32 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Archive 隐私政策（中文）</title>
   <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", "Segoe UI", sans-serif; margin: 36px auto; max-width: 820px; line-height: 1.75; color: #111827; padding: 0 16px; }
+    :root {
+      color-scheme: light dark;
+      --bg: #ffffff;
+      --fg: #111827;
+      --muted: #6b7280;
+      --code-bg: #f3f4f6;
+      --link: #2563eb;
+      --hr: #e5e7eb;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #111827;
+        --fg: #e5e7eb;
+        --muted: #9ca3af;
+        --code-bg: #1f2937;
+        --link: #93c5fd;
+        --hr: #374151;
+      }
+    }
+    body { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", "Segoe UI", sans-serif; margin: 36px auto; max-width: 820px; line-height: 1.75; color: var(--fg); background: var(--bg); padding: 0 16px; }
     h1, h2, h3 { line-height: 1.35; }
-    code { background: #f3f4f6; padding: 2px 6px; border-radius: 4px; }
+    code { background: var(--code-bg); padding: 2px 6px; border-radius: 4px; }
+    a { color: var(--link); }
     .topnav a { margin-right: 12px; }
-    .muted { color: #6b7280; }
+    .muted { color: var(--muted); }
+    hr { border: 0; border-top: 1px solid var(--hr); }
   </style>
 </head>
 <body>
